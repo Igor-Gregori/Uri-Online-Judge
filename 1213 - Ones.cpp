@@ -16,7 +16,7 @@ int main()
             l = (10 * l + 1) % n;
             c++;
         }
-
+        
         cout<<c<<endl;
     }
     return 0;

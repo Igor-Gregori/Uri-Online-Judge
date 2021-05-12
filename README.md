@@ -1,1 +1,30 @@
-# Uri-Online-Judge
+<h1 align="center">Uri Online Judge Solutions</h1>
+
+- [x] 1028 - Figurinhas.py
+- [x] 1138 - Contagem de Dígitos.cpp
+- [x] 1162 - Organizador de Vagões.cpp
+- [x] 1191 - Recuperação da Arvore.cpp
+- [x] 1198 - O Bravo Guerreiro Hashmat.cpp
+- [x] 1213 - Ones.cpp
+- [x] 1219 - Flores Coloridas.py
+- [x] 1242 - Ácido Ribonucleico Alienígena.cpp
+- [x] 1247 - Guarda Costeira.cpp
+- [x] 1308 - Guerreiros Etruscos Nunca Jogam Xadrez.cpp
+- [x] 1309 - Formatação Monetária.py
+- [x] 1466 - Percurso em Árvore por Nível.py
+- [x] 1630 - Estacas.py
+- [x] 1643 - Converter Quilômetros para Milhas.cpp
+- [x] 1921 - Guilherme e Suas Pipas.py
+- [x] 1989 - Fazendo Nada - URI Online Judge.cpp
+- [x] 2091 - Número Solitário.cpp
+- [x] 2111 - Entendendo o Sorobov.cpp
+- [x] 2370 - Times.cpp
+- [x] 2489 - Flecha no Coelho.cpp
+- [x] 2518 - Escada do DINF.py
+- [x] 2840 - Balão++.py
+- [x] 2890 - Colorindo Tetraedros.py
+- [x] 3160 - Amigos.cpp
+- [x] 3257 - Plantando Árvores.py
+- [x] 3260 - Robert Hood.py
+- [x] 444 - Corrida dos Marrecos.py
+- [x] URI 1783 - Ih, Ferrou, um Buraco Negro!.cpp
