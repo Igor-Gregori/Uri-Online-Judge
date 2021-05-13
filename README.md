@@ -27,4 +27,4 @@
 - [x] 3257 - Plantando Árvores.py
 - [x] 3260 - Robert Hood.py
 - [x] 444 - Corrida dos Marrecos.py
-- [x] URI 1783 - Ih, Ferrou, um Buraco Negro!.cpp
+- [x] 1783 - Ih, Ferrou, um Buraco Negro!.cpp
